@@ -1,4 +1,1 @@
-# webAR
-AR testing ground
-
-- Four models for a AR implementation of the 'Foundations of Matter' series.
+{Thoughts on the nature of matter and reality}
